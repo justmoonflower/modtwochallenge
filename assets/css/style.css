@@ -68,7 +68,7 @@ nav a {
 nav a:hover {
   background-color:#fff;
   color:#4d3966;
-  border-radius: 3px;
+  border-radius: 5px;
 }
   
 /*Main*/
@@ -130,6 +130,7 @@ main {
 
 .mod-one img:hover {
 background:#4d396667;
+border-radius: 5px;
 }
 
 /*Image*/
@@ -147,6 +148,7 @@ background:#4d396667;
 
 .mod-two img:hover {
   background: #4d396667;
+  border-radius: 5px;
   }
 
 /*Image*/
@@ -164,6 +166,7 @@ background:#4d396667;
 
 .mod-three img:hover {
   background:#4d396667;
+  border-radius: 5px;
   }
 
 /*Image*/
@@ -181,6 +184,7 @@ background:#4d396667;
 
 .mod-four img:hover {
   background:#4d396667;
+  border-radius: 5px;
   }
 
 .contact-info {
